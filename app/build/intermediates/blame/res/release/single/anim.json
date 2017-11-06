@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/anim/abc_slide_in_top.xml"
+    }
+]

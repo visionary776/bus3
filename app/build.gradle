@@ -1,0 +1,46 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        PskovBuskey {
+            keyAlias 'pskovbus'
+            keyPassword 'pskovbus16'
+            storeFile file('/media/DiscD/Coding/AndroidAPKkeys/PskovBusKey.jks')
+            storePassword 'cooldeveloper16'
+        }
+    }
+    compileSdkVersion 24
+    buildToolsVersion "26.0.2"
+    defaultConfig {
+        applicationId "es.esy.pskovbus.pskovbus"
+        minSdkVersion 17
+        targetSdkVersion 23
+        multiDexEnabled true
+        versionCode 36
+        versionName '3.2'
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        signingConfig signingConfigs.PskovBuskey
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.PskovBuskey
+        }
+        debug {
+            minifyEnabled true
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.google.android.gms:play-services:9.8.0'
+    testCompile 'junit:junit:4.12'
+}

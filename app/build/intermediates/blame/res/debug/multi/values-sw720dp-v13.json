@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/vovan/СODING/Bus2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "/home/vovan/.android/build-cache/3548e9be6e07a1eb2ab4403b0f5e3b471e31b6f3/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 68,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/home/vovan/.android/build-cache/3548e9be6e07a1eb2ab4403b0f5e3b471e31b6f3/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 68,
+                        "endOffset": 188
+                    }
+                }
+            }
+        ]
+    }
+]

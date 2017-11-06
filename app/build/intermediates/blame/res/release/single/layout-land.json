@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/layout-land/activity_main.xml",
+        "source": "/home/vovan/СODING/Bus2/app/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/layout-land/activity_list_stop.xml",
+        "source": "/home/vovan/СODING/Bus2/app/src/main/res/layout-land/activity_list_stop.xml"
+    }
+]

@@ -1,0 +1,469 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:1:39-71:12
+	package
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:2:1-35
+		INJECTED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:1:49-107
+	android:versionCode
+		INJECTED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml
+permission#es.esy.pskovbus.pskovbus.permission.MAPS_RECEIVE
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:3:5-5:46
+	android:protectionLevel
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:5:9-44
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:4:9-72
+uses-permission#es.esy.pskovbus.pskovbus.MAPS_RECEIVE
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:7:22-74
+uses-permission#android.permission.INTERNET
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:8:1-63
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /home/vovan/.android/build-cache/0c7226728b8b61be511a9161d5461ede3f8651fa/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /home/vovan/.android/build-cache/6c191674cc6e163e587180d8d8df4049c90223fd/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /home/vovan/.android/build-cache/f31c9ca3658d65337acf20a9f0ab2e28d8a9c729/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /home/vovan/.android/build-cache/b90fce78bfe777cee1b3451026540627da767ca3/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /home/vovan/.android/build-cache/7d989d84bd6c3cc020bd389a26c8d6aa45753c52/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /home/vovan/.android/build-cache/d1ce36924794e50eca2b680dd16abc93977ecc65/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /home/vovan/.android/build-cache/cdfaa2c6b0a2e5de48383107eced70ba966b54fb/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vovan/.android/build-cache/717f9d60fe8c4f8b5b46fd6a35dce94f3aee7134/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /home/vovan/.android/build-cache/7eae539f80da4f664386fced870304cd0790b4c4/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:8:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:9:1-75
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /home/vovan/.android/build-cache/0c7226728b8b61be511a9161d5461ede3f8651fa/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /home/vovan/.android/build-cache/6c191674cc6e163e587180d8d8df4049c90223fd/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /home/vovan/.android/build-cache/9d450d5de3f01dd309c85904445d5368a1c7d787/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /home/vovan/.android/build-cache/cdfaa2c6b0a2e5de48383107eced70ba966b54fb/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vovan/.android/build-cache/717f9d60fe8c4f8b5b46fd6a35dce94f3aee7134/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /home/vovan/.android/build-cache/7eae539f80da4f664386fced870304cd0790b4c4/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:9:18-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:10:1-77
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:10:18-74
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:11:1-94
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:11:18-91
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:12:1-77
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:12:18-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:13:1-75
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:13:18-72
+uses-feature#0x00020000
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:16:1-87
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /home/vovan/.android/build-cache/7eae539f80da4f664386fced870304cd0790b4c4/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:16:15-47
+	android:required
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:16:48-71
+application
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:18:1-45:15
+MERGED from [com.google.android.gms:play-services:9.8.0] /home/vovan/.android/build-cache/10cab6d2b12b4a7327c1253e64b5fb235cbc42ef/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /home/vovan/.android/build-cache/0c7226728b8b61be511a9161d5461ede3f8651fa/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /home/vovan/.android/build-cache/6c191674cc6e163e587180d8d8df4049c90223fd/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /home/vovan/.android/build-cache/f31c9ca3658d65337acf20a9f0ab2e28d8a9c729/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /home/vovan/.android/build-cache/9f7b8a0b6fc3cf3ef7f9e9745f874278bd3cef7b/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] /home/vovan/.android/build-cache/0a9b82b685793d609e7d0220fa85cb6344cca51e/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] /home/vovan/.android/build-cache/3c1dbbad19fced4421ac4843d0074f339265c6cf/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/vovan/.android/build-cache/3548e9be6e07a1eb2ab4403b0f5e3b471e31b6f3/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /home/vovan/.android/build-cache/c85f176944fd5326385549e6ac612020a2dedd32/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/vovan/.android/build-cache/9601741776159ad895db9e8e72c3e51dba540daa/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/vovan/.android/build-cache/694e15c079b9b5fa8f8f69533c481c1daae3f66f/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /home/vovan/.android/build-cache/dac42e82da28286ab0123859a6d9262c0b44796e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.8.0] /home/vovan/.android/build-cache/9dde2d92482e032f144c0b3bcbc9dcb7d264a235/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] /home/vovan/.android/build-cache/966f4d9e0ddc2e9440dea7b3056348f122cd9946/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /home/vovan/.android/build-cache/b90fce78bfe777cee1b3451026540627da767ca3/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /home/vovan/.android/build-cache/455e53b8fab341e2b00c20e8125f688ccc50d160/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /home/vovan/.android/build-cache/de4fbd3e3e8fee4ec85c68c71bf874b485e965a8/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /home/vovan/.android/build-cache/995bcbfe8cb9179b9405d0245498abc7ce1e53e5/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] /home/vovan/.android/build-cache/aa5e832e4dc667eb865b6c040f8aa7f0324d276b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.8.0] /home/vovan/.android/build-cache/376ed9d99e29c71fbedd218e769d8e68ca4cd52e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] /home/vovan/.android/build-cache/a7d535c7934ab0bcea66998340ae3367a32336cf/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /home/vovan/.android/build-cache/a37dce3b9a4dfae6e30f91f080acf9342dc78761/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /home/vovan/.android/build-cache/7d989d84bd6c3cc020bd389a26c8d6aa45753c52/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /home/vovan/.android/build-cache/8d84873f58011dae63275a62d791caaad7948f69/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /home/vovan/.android/build-cache/d1ce36924794e50eca2b680dd16abc93977ecc65/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /home/vovan/.android/build-cache/2e108eb2527a4981798f6b0f779cfa178653919a/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /home/vovan/.android/build-cache/9d450d5de3f01dd309c85904445d5368a1c7d787/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] /home/vovan/.android/build-cache/f7fa38c4c0a769b432909519b4ff19b757111a08/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:9.8.0] /home/vovan/.android/build-cache/4c601077343e4bb89d4a662edf80d1288e25dbb8/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] /home/vovan/.android/build-cache/4af0e2b897dd6f028b3ed6c9df5a7555ed20d040/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] /home/vovan/.android/build-cache/fd0d34871b071a0a3ea8dbac64638f7d60122afe/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /home/vovan/.android/build-cache/cdfaa2c6b0a2e5de48383107eced70ba966b54fb/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vovan/.android/build-cache/717f9d60fe8c4f8b5b46fd6a35dce94f3aee7134/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] /home/vovan/.android/build-cache/1d9fe29c6b71176e4eaafd4c5478a3aa149e89e0/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /home/vovan/.android/build-cache/6e0414cc2a21773cac0acdbf916ab77b56c163df/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] /home/vovan/.android/build-cache/954691eb09ec99b34d7143ff1cb6b8e682471860/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /home/vovan/.android/build-cache/7eae539f80da4f664386fced870304cd0790b4c4/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /home/vovan/.android/build-cache/7288bc57bdac28154a39861573f6bda6b19903f0/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/vovan/.android/build-cache/45ca2cf3d4c5a075361d0d453f97285f6836dd16/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/vovan/.android/build-cache/a88e2511e3814192fb968c298f062a887f7d1c5b/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/vovan/.android/build-cache/6622af52fc648ecd0c89caf5691dd98c250c60f1/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.2.1] /home/vovan/.android/build-cache/df455570044c1f1eeebd4e19497e5a52f68c7d63/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/vovan/.android/build-cache/65853509cf28fae79e883d9a4e625fb9c6922788/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/vovan/.android/build-cache/6efdc3483cac3618ec7f430f254ff833dbc8ded7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/vovan/.android/build-cache/ace309b0799abfe8ef54888719dd8e03a9777b26/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/vovan/.android/build-cache/2571000776308ca2a1ba05bca10247db63d75a8f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/vovan/.android/build-cache/42da2f8eff08e3b061d7bc46ee526ab0a8a172d0/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:20:5-37
+	android:supportsRtl
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:21:5-31
+	android:allowBackup
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:18:14-40
+	android:icon
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:19:5-39
+	android:theme
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:22:5-36
+activity#es.esy.pskovbus.pskovbus.MainActivity
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:25:5-31:16
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:25:15-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:26:9-30:25
+action#android.intent.action.MAIN
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:27:13-65
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:27:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:29:13-73
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:29:23-70
+activity#es.esy.pskovbus.pskovbus.ListStopActivity
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:32:5-50
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:32:15-47
+activity#es.esy.pskovbus.pskovbus.MapsActivity
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:34:5-37:16
+	android:label
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:35:9-52
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:34:15-43
+meta-data#com.google.android.gms.version
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:38:5-40:65
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/vovan/.android/build-cache/6622af52fc648ecd0c89caf5691dd98c250c60f1/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:40:9-62
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:39:9-54
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:41:5-43:67
+	android:value
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:43:9-64
+	android:name
+		ADDED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml:42:9-54
+uses-sdk
+INJECTED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /home/vovan/.android/build-cache/54dd83532a3491b0205dd7ef3ef4b84f877cdf73/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:9.8.0] /home/vovan/.android/build-cache/10cab6d2b12b4a7327c1253e64b5fb235cbc42ef/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] /home/vovan/.android/build-cache/4b53ff32ca28a98138df262cd494687aaca14829/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /home/vovan/.android/build-cache/0c7226728b8b61be511a9161d5461ede3f8651fa/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /home/vovan/.android/build-cache/6c191674cc6e163e587180d8d8df4049c90223fd/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.8.0] /home/vovan/.android/build-cache/f31c9ca3658d65337acf20a9f0ab2e28d8a9c729/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /home/vovan/.android/build-cache/9f7b8a0b6fc3cf3ef7f9e9745f874278bd3cef7b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] /home/vovan/.android/build-cache/b31b32cd6b9fa31969c72ac630a8307f9944c4ba/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.8.0] /home/vovan/.android/build-cache/0a9b82b685793d609e7d0220fa85cb6344cca51e/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] /home/vovan/.android/build-cache/3c1dbbad19fced4421ac4843d0074f339265c6cf/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/vovan/.android/build-cache/3548e9be6e07a1eb2ab4403b0f5e3b471e31b6f3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /home/vovan/.android/build-cache/c85f176944fd5326385549e6ac612020a2dedd32/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/vovan/.android/build-cache/9601741776159ad895db9e8e72c3e51dba540daa/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/vovan/.android/build-cache/694e15c079b9b5fa8f8f69533c481c1daae3f66f/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /home/vovan/.android/build-cache/dac42e82da28286ab0123859a6d9262c0b44796e/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.8.0] /home/vovan/.android/build-cache/9dde2d92482e032f144c0b3bcbc9dcb7d264a235/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.8.0] /home/vovan/.android/build-cache/966f4d9e0ddc2e9440dea7b3056348f122cd9946/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /home/vovan/.android/build-cache/b90fce78bfe777cee1b3451026540627da767ca3/output/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /home/vovan/.android/build-cache/455e53b8fab341e2b00c20e8125f688ccc50d160/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /home/vovan/.android/build-cache/de4fbd3e3e8fee4ec85c68c71bf874b485e965a8/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] /home/vovan/.android/build-cache/0855f5dba1381e656191d62a8a25e39192dc9a84/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.8.0] /home/vovan/.android/build-cache/f972eb171401a576b464264e8f62433b9cc4f4e2/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] /home/vovan/.android/build-cache/69b9e77096d9c397d3d541cda081e7fa0c7f92ab/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /home/vovan/.android/build-cache/995bcbfe8cb9179b9405d0245498abc7ce1e53e5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:9.8.0] /home/vovan/.android/build-cache/69739c4d6621322420c1fb32645dfe6411d0aaa0/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] /home/vovan/.android/build-cache/c129d15fba7838b8569cc278db302445d6a395f0/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.8.0] /home/vovan/.android/build-cache/aa5e832e4dc667eb865b6c040f8aa7f0324d276b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.8.0] /home/vovan/.android/build-cache/376ed9d99e29c71fbedd218e769d8e68ca4cd52e/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.8.0] /home/vovan/.android/build-cache/a7d535c7934ab0bcea66998340ae3367a32336cf/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /home/vovan/.android/build-cache/a37dce3b9a4dfae6e30f91f080acf9342dc78761/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /home/vovan/.android/build-cache/7d989d84bd6c3cc020bd389a26c8d6aa45753c52/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /home/vovan/.android/build-cache/8d84873f58011dae63275a62d791caaad7948f69/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /home/vovan/.android/build-cache/d1ce36924794e50eca2b680dd16abc93977ecc65/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.8.0] /home/vovan/.android/build-cache/f0a44c82d61d1ee1f4d88b1c8ecf3fc581fb5a3d/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /home/vovan/.android/build-cache/2e108eb2527a4981798f6b0f779cfa178653919a/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.8.0] /home/vovan/.android/build-cache/9d450d5de3f01dd309c85904445d5368a1c7d787/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.8.0] /home/vovan/.android/build-cache/f7fa38c4c0a769b432909519b4ff19b757111a08/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:9.8.0] /home/vovan/.android/build-cache/4c601077343e4bb89d4a662edf80d1288e25dbb8/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.8.0] /home/vovan/.android/build-cache/4af0e2b897dd6f028b3ed6c9df5a7555ed20d040/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.8.0] /home/vovan/.android/build-cache/fd0d34871b071a0a3ea8dbac64638f7d60122afe/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.8.0] /home/vovan/.android/build-cache/0adae68a833e06e8aba996f482a89062f1e3a3e7/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /home/vovan/.android/build-cache/cdfaa2c6b0a2e5de48383107eced70ba966b54fb/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vovan/.android/build-cache/717f9d60fe8c4f8b5b46fd6a35dce94f3aee7134/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] /home/vovan/.android/build-cache/1d9fe29c6b71176e4eaafd4c5478a3aa149e89e0/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /home/vovan/.android/build-cache/6e0414cc2a21773cac0acdbf916ab77b56c163df/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.8.0] /home/vovan/.android/build-cache/b8eb63a8118c753bdce719d9f0896157c1f7c20d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.8.0] /home/vovan/.android/build-cache/954691eb09ec99b34d7143ff1cb6b8e682471860/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /home/vovan/.android/build-cache/7eae539f80da4f664386fced870304cd0790b4c4/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.8.0] /home/vovan/.android/build-cache/7288bc57bdac28154a39861573f6bda6b19903f0/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/vovan/.android/build-cache/45ca2cf3d4c5a075361d0d453f97285f6836dd16/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/vovan/.android/build-cache/a88e2511e3814192fb968c298f062a887f7d1c5b/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/vovan/.android/build-cache/6622af52fc648ecd0c89caf5691dd98c250c60f1/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.2.1] /home/vovan/.android/build-cache/df455570044c1f1eeebd4e19497e5a52f68c7d63/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /home/vovan/.android/build-cache/65853509cf28fae79e883d9a4e625fb9c6922788/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/vovan/.android/build-cache/6efdc3483cac3618ec7f430f254ff833dbc8ded7/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/vovan/.android/build-cache/ace309b0799abfe8ef54888719dd8e03a9777b26/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/vovan/.android/build-cache/2571000776308ca2a1ba05bca10247db63d75a8f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /home/vovan/.android/build-cache/42da2f8eff08e3b061d7bc46ee526ab0a8a172d0/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vovan/СODING/Bus2/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /home/vovan/.android/build-cache/0c7226728b8b61be511a9161d5461ede3f8651fa/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /home/vovan/.android/build-cache/0c7226728b8b61be511a9161d5461ede3f8651fa/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /home/vovan/.android/build-cache/0c7226728b8b61be511a9161d5461ede3f8651fa/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /home/vovan/.android/build-cache/0c7226728b8b61be511a9161d5461ede3f8651fa/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /home/vovan/.android/build-cache/0c7226728b8b61be511a9161d5461ede3f8651fa/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /home/vovan/.android/build-cache/0c7226728b8b61be511a9161d5461ede3f8651fa/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /home/vovan/.android/build-cache/0c7226728b8b61be511a9161d5461ede3f8651fa/output/AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.8.0] /home/vovan/.android/build-cache/6c191674cc6e163e587180d8d8df4049c90223fd/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /home/vovan/.android/build-cache/cdfaa2c6b0a2e5de48383107eced70ba966b54fb/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vovan/.android/build-cache/717f9d60fe8c4f8b5b46fd6a35dce94f3aee7134/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.8.0] /home/vovan/.android/build-cache/6c191674cc6e163e587180d8d8df4049c90223fd/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /home/vovan/.android/build-cache/f31c9ca3658d65337acf20a9f0ab2e28d8a9c729/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /home/vovan/.android/build-cache/f31c9ca3658d65337acf20a9f0ab2e28d8a9c729/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /home/vovan/.android/build-cache/f31c9ca3658d65337acf20a9f0ab2e28d8a9c729/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /home/vovan/.android/build-cache/f31c9ca3658d65337acf20a9f0ab2e28d8a9c729/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /home/vovan/.android/build-cache/f31c9ca3658d65337acf20a9f0ab2e28d8a9c729/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /home/vovan/.android/build-cache/f31c9ca3658d65337acf20a9f0ab2e28d8a9c729/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /home/vovan/.android/build-cache/f31c9ca3658d65337acf20a9f0ab2e28d8a9c729/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /home/vovan/.android/build-cache/f31c9ca3658d65337acf20a9f0ab2e28d8a9c729/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.8.0] /home/vovan/.android/build-cache/f31c9ca3658d65337acf20a9f0ab2e28d8a9c729/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/vovan/.android/build-cache/9f7b8a0b6fc3cf3ef7f9e9745f874278bd3cef7b/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/vovan/.android/build-cache/9f7b8a0b6fc3cf3ef7f9e9745f874278bd3cef7b/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/vovan/.android/build-cache/9f7b8a0b6fc3cf3ef7f9e9745f874278bd3cef7b/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/vovan/.android/build-cache/9f7b8a0b6fc3cf3ef7f9e9745f874278bd3cef7b/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/vovan/.android/build-cache/9f7b8a0b6fc3cf3ef7f9e9745f874278bd3cef7b/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/vovan/.android/build-cache/9f7b8a0b6fc3cf3ef7f9e9745f874278bd3cef7b/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/vovan/.android/build-cache/9f7b8a0b6fc3cf3ef7f9e9745f874278bd3cef7b/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/vovan/.android/build-cache/9f7b8a0b6fc3cf3ef7f9e9745f874278bd3cef7b/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/vovan/.android/build-cache/9f7b8a0b6fc3cf3ef7f9e9745f874278bd3cef7b/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /home/vovan/.android/build-cache/0a9b82b685793d609e7d0220fa85cb6344cca51e/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /home/vovan/.android/build-cache/0a9b82b685793d609e7d0220fa85cb6344cca51e/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /home/vovan/.android/build-cache/0a9b82b685793d609e7d0220fa85cb6344cca51e/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /home/vovan/.android/build-cache/0a9b82b685793d609e7d0220fa85cb6344cca51e/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /home/vovan/.android/build-cache/0a9b82b685793d609e7d0220fa85cb6344cca51e/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.8.0] /home/vovan/.android/build-cache/0a9b82b685793d609e7d0220fa85cb6344cca51e/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] /home/vovan/.android/build-cache/995bcbfe8cb9179b9405d0245498abc7ce1e53e5/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /home/vovan/.android/build-cache/995bcbfe8cb9179b9405d0245498abc7ce1e53e5/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /home/vovan/.android/build-cache/995bcbfe8cb9179b9405d0245498abc7ce1e53e5/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] /home/vovan/.android/build-cache/995bcbfe8cb9179b9405d0245498abc7ce1e53e5/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /home/vovan/.android/build-cache/995bcbfe8cb9179b9405d0245498abc7ce1e53e5/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] /home/vovan/.android/build-cache/995bcbfe8cb9179b9405d0245498abc7ce1e53e5/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /home/vovan/.android/build-cache/995bcbfe8cb9179b9405d0245498abc7ce1e53e5/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.8.0] /home/vovan/.android/build-cache/7d989d84bd6c3cc020bd389a26c8d6aa45753c52/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /home/vovan/.android/build-cache/d1ce36924794e50eca2b680dd16abc93977ecc65/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.8.0] /home/vovan/.android/build-cache/7d989d84bd6c3cc020bd389a26c8d6aa45753c52/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.8.0] /home/vovan/.android/build-cache/ecd9fbbd8e4ea9f53a7045c5e47af94b15fe9fb1/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vovan/.android/build-cache/717f9d60fe8c4f8b5b46fd6a35dce94f3aee7134/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/vovan/.android/build-cache/717f9d60fe8c4f8b5b46fd6a35dce94f3aee7134/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/vovan/.android/build-cache/13d202896ecc22552ae62a9991f3514c2498e822/output/AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/vovan/.android/build-cache/aecd0873f2d164579532504b5dc2e2a44d2ef60b/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] /home/vovan/.android/build-cache/1d9fe29c6b71176e4eaafd4c5478a3aa149e89e0/output/AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/vovan/.android/build-cache/1d9fe29c6b71176e4eaafd4c5478a3aa149e89e0/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/vovan/.android/build-cache/1d9fe29c6b71176e4eaafd4c5478a3aa149e89e0/output/AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/vovan/.android/build-cache/1d9fe29c6b71176e4eaafd4c5478a3aa149e89e0/output/AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/vovan/.android/build-cache/1d9fe29c6b71176e4eaafd4c5478a3aa149e89e0/output/AndroidManifest.xml:6:79-124
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/vovan/.android/build-cache/45ca2cf3d4c5a075361d0d453f97285f6836dd16/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/vovan/.android/build-cache/45ca2cf3d4c5a075361d0d453f97285f6836dd16/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/vovan/.android/build-cache/45ca2cf3d4c5a075361d0d453f97285f6836dd16/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/vovan/.android/build-cache/45ca2cf3d4c5a075361d0d453f97285f6836dd16/output/AndroidManifest.xml:19:19-85

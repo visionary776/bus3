@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="play-services-auth-base-9.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b31b32cd6b9fa31969c72ac630a8307f9944c4ba/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b31b32cd6b9fa31969c72ac630a8307f9944c4ba/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

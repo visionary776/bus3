@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/vovan/.android/build-cache/3548e9be6e07a1eb2ab4403b0f5e3b471e31b6f3/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/vovan/.android/build-cache/3548e9be6e07a1eb2ab4403b0f5e3b471e31b6f3/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

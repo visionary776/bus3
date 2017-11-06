@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="favorite">@android:drawable/ic_input_get</drawable>
+    <drawable name="favorite121">@android:drawable/ic_input_get</drawable>
+</resources>

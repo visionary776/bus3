@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/home/vovan/.android/build-cache/b8eb63a8118c753bdce719d9f0896157c1f7c20d/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/vovan/.android/build-cache/45ca2cf3d4c5a075361d0d453f97285f6836dd16/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/wallet_primary_text_holo_light.xml",
+        "source": "/home/vovan/.android/build-cache/b8eb63a8118c753bdce719d9f0896157c1f7c20d/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/vovan/.android/build-cache/45ca2cf3d4c5a075361d0d453f97285f6836dd16/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_tint_switch_thumb.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6cb000</color>
+    <color name="colorPrimaryDark">#4d7927</color>
+    <color name="colorAccent">#c9de06</color>
+    <color name="myText">#413011</color>
+    <color name="myTextLabel">#725112</color>
+    <color name="myBackgrounColor">#fcc203</color>
+    <color name="myBackground2">#fedd42</color>
+    <color name="myBackground3">#fdd104</color>
+    <color name="myButton">#8ec831</color>
+    <color name="buttonText">#2b1505</color>
+    <color name="myButtonclicked">#e89a00</color>
+</resources>

@@ -1,0 +1,4 @@
+#Fri Oct 06 00:28:39 MSK 2017
+base.0=/home/vovan/СODING/Bus2/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/vovan/СODING/Bus2/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

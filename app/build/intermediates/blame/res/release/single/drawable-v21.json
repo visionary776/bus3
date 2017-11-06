@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/vovan/СODING/Bus2/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/vovan/.android/build-cache/53a521e92c4499d1a4c6cf5e737559367719453f/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

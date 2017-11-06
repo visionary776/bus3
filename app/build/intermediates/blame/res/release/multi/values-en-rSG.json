@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/vovan/СODING/Bus2/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/home/vovan/.android/build-cache/b8eb63a8118c753bdce719d9f0896157c1f7c20d/output/res/values-en-rSG/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 244,
+                        "endColumn": 99,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]
