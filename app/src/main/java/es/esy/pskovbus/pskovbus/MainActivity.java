@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public static final String FAVORITE2="Favorite2";
     public static final String FAVORITE3="Favorite3";
     public static final String FAVORITE_PREF="Favorites";
-
+// testing
 
     int stopId=0;
     int finaldestId=0;
